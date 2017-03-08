@@ -18,8 +18,7 @@ author: Manuel Lopera
 email: manuel.alejandro.lopera@gmail.com
 career: Full-Stack Developer
 description: > # this means to ignore newlines until "baseurl:"
-  Coding and personal interests. Try to become a better developer and
-  share my knowledge.
+  Articles about Software development in general. Javascript, Angular, Node.js, Python, PHP.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: loperamanuel
