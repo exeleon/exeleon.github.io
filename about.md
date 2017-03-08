@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Soy Manuel Alejandro Lopera Ospina, desarrollador de software full-stack, actualmente QA Enginner en [Brainz][brainz]{:target="_blank"}. Me encanta el desarrollo de software en todas sus formas, por eso estoy aqui, para compartir lo poco que sé de este *dev-universe* y al mismo tiempo aprender de todos ustedes.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[brainz]: https://brainz.co
