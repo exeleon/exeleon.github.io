@@ -16,6 +16,14 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
+        <a class="post-excerpt-link" href="{{ post.url | relative_url }}" title="Read {{ post.title }}">
+          {{ post.excerpt }}
+        </a>
+
+        <a class="post-read-more-link" href="{{ post.url | relative_url }}" title="Read {{ post.title }}">
+          Leer mas
+        </a>
       </li>
     {% endfor %}
   </ul>
