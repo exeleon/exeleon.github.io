@@ -3,6 +3,7 @@ layout: post
 title:  "¿Por qué este Blog?"
 date:   2017-03-07 21:31:30 -0500
 categories: general
+comments: true
 excerpt: Este post es simplemente un `Hola Mundo`. Como puedes ver, por ahora el sitio hace honor a su nombre, espero ir llenando ese vacío paulatinamente...
 ---
 
