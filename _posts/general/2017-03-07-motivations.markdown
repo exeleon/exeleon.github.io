@@ -25,6 +25,6 @@ Lo que si tengo claro es que deseo compartir mis conocimientos con otros entusia
 
 Si deseas que trate un tema en particular (y mis conocimientos me alcanzan), mi [Twitter][twitter] está abierto a tus sugerencias.
 
-No siendo más, hasta a próxima y como dice aquel refrán de mi tierra: *"Desarrolladores somos y en el camino nos encontramos"*.
+No siendo más, hasta la próxima y como dice aquel refrán de mi tierra: *"Desarrolladores somos y en el camino nos encontramos"*.
 
 [twitter]: https://twitter.com/{{ site.twitter_username }}
